@@ -1,0 +1,1 @@
+This repo is a minimal reproduction of a forge issue, more info in the README here: https://github.com/mds1/forge-test-my-proj
